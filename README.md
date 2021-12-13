@@ -1,1 +1,1 @@
-Im Marco Milanta. A passionate Math/CS student
+Im Marco Milanta, a passionate Math/CS student. More info [Here](mmilanta.github.io)
